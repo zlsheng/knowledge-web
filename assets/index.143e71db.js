@@ -1,0 +1,1 @@
+import{aH as o}from"./index.9eab7d25.js";import{c as s}from"./createAsyncComponent.f0c6d319.js";const e=s((()=>o((()=>__import__("./index.b52c36b6.js")),["/assets/index.b52c36b6.js","/assets/index.9eab7d25.js","/assets/index.645db1d2.css","/assets/vendor.445a818e.js","/assets/vendor.4a5fa02d.css"])));export{e as C};
